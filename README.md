@@ -1,2 +1,2 @@
-Interactive-Computer-Graphics--CS-418-PROJECTS
+Interactive Computer Graphics Projects (CS418)
 ==============================================
