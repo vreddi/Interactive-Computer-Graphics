@@ -23,13 +23,13 @@ It requires some header files which are listed as follows:
 #include "utilityMP1.h" 
 (utilityMP1.h file contains global variables, some functions, constant values and function protocols)
 
-[Note: utilityMP1.h exists in the same folder as the main cs418mp1.cpp file]
+[<b><u>Note:</b></u> utilityMP1.h exists in the same folder as the main cs418mp1.cpp file]
 </code>
 </pre>
 
 ###INTERACTIVITY FUNCTIONALITY
 
-(####note: All of these interactable features with the model are toggable mapped unique keys for each functionality
+(<b><u>Note:</b></u> All of these interactable features with the model are toggable mapped unique keys for each functionality
        to be separate from the other and run independently.) 
 [The Instructions for the following functionalities is shown on the console screen.]
 
@@ -100,4 +100,4 @@ It requires some header files which are listed as follows:
 ####Video Link : https://www.youtube.com/watch?v=YuNN_YQ4ka4
 ----------
 
-(####Note: Snapshots of the project are in the project folder under the folder name "SnapShots")
+(<b><u>Note:</b></u> Snapshots of the project are in the project folder under the folder name "SnapShots")
