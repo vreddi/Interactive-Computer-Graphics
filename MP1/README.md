@@ -3,9 +3,9 @@
 First Mp for CS 418. Creates an App with interactive functionality for the user. The animation part of the functionality
 effectively makes the model 'I' dance, henceforth 'Dancing - I'.
 The model is a 10 Triangle model built with traingle fans effectively reducing the number of calls made to glVertex.
-<div align="center">
+
 ![Alt Text](https://github.com/Jastner/Interactive-Computer-Graphics--CS-418-/blob/master/MP1/SnapShots/Mesh-View.png)
-</div>
+
 This file provides an explaination (user point of view) on how to use this app. The video link is 
 provided on the bottom of the file.
 
