@@ -4,6 +4,8 @@ First Mp for CS 418. Creates an App with interactive functionality for the user.
 effectively makes the model 'I' dance, henceforth 'Dancing - I'.
 The model is a 10 Triangle model built with traingle fans effectively reducing the number of calls made to glVertex.
 
+![Alt Text]()
+
 This file provides an explaination (user point of view) on how to use this app. The video link is 
 provided on the bottom of the file.
 
