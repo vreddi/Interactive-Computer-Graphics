@@ -12,7 +12,8 @@ provided on the bottom of the file.
 This app/project is build on Microsoft Visual Studio. For the submission the entire project has been included.
 The main file is cs418mp1.cpp which needs to be compiled.
 It requires some header files which are listed as follows:
-<code><pre lang="markup">
+<code>
+<pre lang="markup">
 #include <iostream>
 #include <glut.h>
 #include <stdio.h>
@@ -28,7 +29,7 @@ It requires some header files which are listed as follows:
 
 ###INTERACTIVITY FUNCTIONALITY
 
-(note: All of these interactable features with the model are toggable mapped unique keys for each functionality
+(####note: All of these interactable features with the model are toggable mapped unique keys for each functionality
        to be separate from the other and run independently.) 
 [The Instructions for the following functionalities is shown on the console screen.]
 
@@ -51,58 +52,52 @@ It requires some header files which are listed as follows:
 
 - ###Fly-Mode ON/OFF      [PRESS <code>w</code> to toggle]
 
-This functionality provides the 'flying' animation to the model 'I'. This is in addition to the basic dance animation. This 
-animation provides movement to the model rather than just static position animations.
+       This functionality provides the 'flying' animation to the model 'I'. This is in addition to the basic dance animation.        This animation provides movement to the model rather than just static position animations.
 
 
 - ###Disco-Mode ON/OFF	 [PRESS <code>d</code> to toggle]
 
-This mode provides the app with a disco effect where the background changes color every 750ms.
-Just a fun functionality to add more feel to the Dancing 'I' app.
+       This mode provides the app with a disco effect where the background changes color every 750ms.
+       Just a fun functionality to add more feel to the Dancing 'I' app.
 
 
-* Rotation-Mode ON/OFF	    [PRESS 'r' to toggle]
+- ###Rotation-Mode ON/OFF	    [PRESS <code>r</code> to toggle]
 
-This functionality when toggled on helps in rotating the model "I' along the y-axis providing a 3D perspective to the App.
-THe rotation is set to be anti-clockwise.
-
-
-* Increase/Decrease Speed of Rotation	    [PRESS '1' to Increase and '2' to Decrease]
-
-This functionality only works if the the Rotation-Mode is switched ON. If it is, then this functionality helps in speeding
-up the rotation or decrease the speed of rotation. This just provides and additional usage to the roation functionality.
+       This functionality when toggled on helps in rotating the model "I' along the y-axis providing a 3D perspective to the        App. The rotation is set to be anti-clockwise.
 
 
-* Zooming In/Out     [PRESS 'z' to zoom in and 'x' to zoom out]
+- ###Increase/Decrease Speed of Rotation	    [PRESS <code>1</code> to Increase and <code>2</code> to Decrease]
 
-This functionality helps the user to zoom in on the model and zoom out on the model. These zoom ins and outs work even if 
-the animation is running. This can be used to examine the mesh-view more closely or to have a different view on the animations.
-
-
-* Change Color of 'I'	     [Press 'n' to Change Color]
-
-Helps User select Color of the model 'I'. The user has 5 choices of colro through wich the change of color loops through.
-The colors include: red, blue, green, pink, orange.
+       This functionality only works if the the Rotation-Mode is switched ON. If it is, then this functionality helps in             speeding up the rotation or decrease the speed of rotation. This just provides and additional usage to the roation            functionality.
 
 
-* In-App Display ON/OFF      [PRESS 'o' to toggle]
+- ###Zooming In/Out     [PRESS <code>z</code> to zoom in and </code>x</code> to zoom out]
 
-This functionality draws the current state of the functionalities on the top right corner of the window. This makes it very
-useful for th euser to check the current state being ON or OFF.  
-
-
-* Clear Console Screen	    [PRESS 'c' to Clear]
-
-This functionality clears the console screen. Therefore it helps the console in getting rid of the clutter of information.
+       This functionality helps the user to zoom in on the model and zoom out on the model. These zoom ins and outs work even        if the animation is running. This can be used to examine the mesh-view more closely or to have a different view on the        animations.
 
 
-* Exit App	 [PRESS 'Esc' to Exit]
+- ###Change Color of 'I'	     [Press <code>n</code> to Change Color]
 
-Used to quit the App.
+       Helps User select Color of the model 'I'. The user has 5 choices of colro through wich the change of color loops              through. The colors include: red, blue, green, pink, orange.
+
+
+- ###In-App Display ON/OFF      [PRESS <code>o</code> to toggle]
+
+       This functionality draws the current state of the functionalities on the top right corner of the window. This makes it        very useful for th euser to check the current state being ON or OFF.  
+
+
+- ###Clear Console Screen	    [PRESS <code>c</code> to Clear]
+
+       This functionality clears the console screen. Therefore it helps the console in getting rid of the clutter of                 information.
+
+
+- ###Exit App	 [PRESS </code>Esc</code> to Exit]
+
+       Used to quit the App.
 
 
 
-Video Link : https://www.youtube.com/watch?v=YuNN_YQ4ka4
+####Video Link : https://www.youtube.com/watch?v=YuNN_YQ4ka4
 ----------
 
-(Note: Snapshots of the project are in the project folder under the folder name "SnapShots")
+(####Note: Snapshots of the project are in the project folder under the folder name "SnapShots")
