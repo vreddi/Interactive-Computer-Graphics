@@ -12,15 +12,15 @@ provided on the bottom of the file.
 This app/project is build on Microsoft Visual Studio. For the submission the entire project has been included.
 The main file is cs418mp1.cpp which needs to be compiled.
 It requires some header files which are listed as follows:
-<code>
-<pre lang="markup">
+<code><pre lang="markup">
 #include <iostream>
 #include <glut.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
 #include <string>
-#include "utilityMP1.h" (This file contains global variables, some functions, constant values and function protocols)
+#include "utilityMP1.h" 
+(utilityMP1.h file contains global variables, some functions, constant values and function protocols)
 
 [Note: utilityMP1.h exists in the same folder as the main cs418mp1.cpp file]
 </code>
@@ -32,33 +32,30 @@ It requires some header files which are listed as follows:
        to be separate from the other and run independently.) 
 [The Instructions for the following functionalities is shown on the console screen.]
 
--####Mesh-View ON/OFF  [PRESS 'm' to toggle]
+- ####Mesh-View ON/OFF  [PRESS <code>m</code> to toggle]
 
-  This functionality allows the User to interact with the model and toggle views between the wire or the 
-  mesh view of the 'I' and the solid color view of the 'I'. The mesh view can be used to ensure that there 
-  are no T-Junctions in the model.
-
-
--####FPS Display ON/OFF   [PRESS 'f' to toggle]
-
-This functionality allows the user to view the FPS (frames per second) every second on the console screen.The target FPS set
-for this application is 30fps.
+       This functionality allows the User to interact with the model and toggle views between the wire or the 
+       mesh view of the 'I' and the solid color view of the 'I'. The mesh view can be used to ensure that there 
+       are no T-Junctions in the model.
 
 
-* Dance ON/OFF       [PRESS '-spacebar-' to toggle]
+- ####FPS Display ON/OFF   [PRESS <code>f</code> to toggle]
 
-This functionality provides a 'Wiggle' animation to the model 'I'. This is too complete the animation/dancing requirement for the 
-machine problem.This function is toggable and once its turned OFF the position of the model is reset as before. This is basically
-acheived with the used of periodic functions such as a Sine Function.
+       This functionality allows the user to view the FPS (frames per second) every second on the console screen.The target          FPS set for this application is 30fps.
 
 
-* Fly-Mode ON/OFF      [PRESS 'w' to toggle]
+- ###Dance ON/OFF       [PRESS <code>-spacebar-</code> to toggle]
+
+       This functionality provides a 'Wiggle' animation to the model 'I'. This is too complete the animation/dancing                 requirement for the machine problem.This function is toggable and once its turned OFF the position of the model is            reset as before. This is basically acheived with the used of periodic functions such as a Sine Function.
+
+
+- ###Fly-Mode ON/OFF      [PRESS <code>w</code> to toggle]
 
 This functionality provides the 'flying' animation to the model 'I'. This is in addition to the basic dance animation. This 
 animation provides movement to the model rather than just static position animations.
 
 
-* Disco-Mode ON/OFF	 [PRESS 'd' to toggle]
+- ###Disco-Mode ON/OFF	 [PRESS <code>d</code> to toggle]
 
 This mode provides the app with a disco effect where the background changes color every 750ms.
 Just a fun functionality to add more feel to the Dancing 'I' app.
