@@ -16,16 +16,14 @@ The main file is cs418mp1.cpp which needs to be compiled.
 It requires some header files which are listed as follows:
 <code>
 <pre lang="markup">
-#include <iostream>
-#include <glut.h>    (#include <GL/gl.h> and #include <GL/glu.h> are inside glut.h)
-#include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
-#include <string>
-#include "utilityMP1.h" 
+iostream.h
+glut.h    (#include <GL/gl.h> and #include <GL/glu.h> are inside glut.h)
+stdio.h
+stdlib.h
+math.h
+string.h
+utilityMP1.h
 (utilityMP1.h file contains global variables, some functions, constant values and function protocols)
-
-[<b><u>Note:</b></u> utilityMP1.h exists in the same folder as the main cs418mp1.cpp file]
 </code>
 </pre>
 
