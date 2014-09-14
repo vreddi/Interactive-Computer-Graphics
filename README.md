@@ -1,5 +1,7 @@
 #Interactive Computer Graphics Projects (CS418)
 
+This is the Repo for my Graphics Class (FALL'14) at UIUC. This repo contains 4 projects under it. Each project has its own README file for further instructions.
+
 <pre lang="markdown">
 <code>
 Copyright (c) 2014-2015 Vishrut Reddi. All rights reserved.
@@ -19,9 +21,9 @@ Software is furnished to do so, subject to the following conditions:
      provided with the distribution.
    - The names of the contributors may be used to endorse or promote
      products derived from this Software without specific prior written permission.
-   -All advertising materials mentioning features or use of this software
-   must display the following acknowledgement:
-   This product includes software developed by the Author.
+   - All advertising materials mentioning features or use of this software
+     must display the following acknowledgement:
+     This product includes software developed by the Author.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
