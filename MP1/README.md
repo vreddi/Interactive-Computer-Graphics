@@ -17,7 +17,7 @@ It requires some header files which are listed as follows:
 <code>
 <pre lang="markup">
 iostream.h
-glut.h    (<GL/gl.h> and <GL/glu.h> are inside glut.h)
+glut.h    (GL/gl.h and GL/glu.h are inside glut.h)
 stdio.h
 stdlib.h
 math.h
