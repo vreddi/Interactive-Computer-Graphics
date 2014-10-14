@@ -45,53 +45,53 @@ utilityMP1.h
        This functionality allows the user to view the FPS (frames per second) every second on the console screen.The target          FPS set for this application is 30fps.
 
 
-- ###Dance ON/OFF       [PRESS <code>-spacebar-</code> to toggle]
+- ####Dance ON/OFF       [PRESS <code>-spacebar-</code> to toggle]
 
        This functionality provides a 'Wiggle' animation to the model 'I'. This is too complete the animation/dancing                 requirement for the machine problem.This function is toggable and once its turned OFF the position of the model is            reset as before. This is basically acheived with the used of periodic functions such as a Sine Function.
 
 
-- ###Fly-Mode ON/OFF      [PRESS <code>w</code> to toggle]
+- ####Fly-Mode ON/OFF      [PRESS <code>w</code> to toggle]
 
        This functionality provides the 'flying' animation to the model 'I'. This is in addition to the basic dance animation.        This animation provides movement to the model rather than just static position animations.
 
 
-- ###Disco-Mode ON/OFF	 [PRESS <code>d</code> to toggle]
+- ####Disco-Mode ON/OFF	 [PRESS <code>d</code> to toggle]
 
        This mode provides the app with a disco effect where the background changes color every 750ms.
        Just a fun functionality to add more feel to the Dancing 'I' app.
 
 
-- ###Rotation-Mode ON/OFF	    [PRESS <code>r</code> to toggle]
+- ####Rotation-Mode ON/OFF	    [PRESS <code>r</code> to toggle]
 
        This functionality when toggled on helps in rotating the model "I' along the y-axis providing a 3D perspective to the        App. The rotation is set to be anti-clockwise.
 
 
-- ###Increase/Decrease Speed of Rotation	    [PRESS <code>1</code> to Increase and <code>2</code> to Decrease]
+- ####Increase/Decrease Speed of Rotation	    [PRESS <code>1</code> to Increase and <code>2</code> to Decrease]
 
        This functionality only works if the the Rotation-Mode is switched ON. If it is, then this functionality helps in             speeding up the rotation or decrease the speed of rotation. This just provides and additional usage to the roation            functionality.
 
 
-- ###Zooming In/Out     [PRESS <code>z</code> to zoom in and </code>x</code> to zoom out]
+- ####Zooming In/Out     [PRESS <code>z</code> to zoom in and </code>x</code> to zoom out]
 
        This functionality helps the user to zoom in on the model and zoom out on the model. These zoom ins and outs work even        if the animation is running. This can be used to examine the mesh-view more closely or to have a different view on the        animations.
 
 
-- ###Change Color of 'I'	     [Press <code>n</code> to Change Color]
+- ####Change Color of 'I'	     [Press <code>n</code> to Change Color]
 
        Helps User select Color of the model 'I'. The user has 5 choices of colro through wich the change of color loops              through. The colors include: red, blue, green, pink, orange.
 
 
-- ###In-App Display ON/OFF      [PRESS <code>o</code> to toggle]
+- ####In-App Display ON/OFF      [PRESS <code>o</code> to toggle]
 
        This functionality draws the current state of the functionalities on the top right corner of the window. This makes it        very useful for th euser to check the current state being ON or OFF.  
 
 
-- ###Clear Console Screen	    [PRESS <code>c</code> to Clear]
+- ####Clear Console Screen	    [PRESS <code>c</code> to Clear]
 
        This functionality clears the console screen. Therefore it helps the console in getting rid of the clutter of                 information.
 
 
-- ###Exit App	 [PRESS </code>Esc</code> to Exit]
+- ####Exit App	 [PRESS </code>Esc</code> to Exit]
 
        Used to quit the App.
 
