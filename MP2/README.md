@@ -16,7 +16,6 @@ provided on the bottom of the file.
 This app/project is build on Microsoft Visual Studio. For the submission the entire project has been included.
 The main file is Source.cpp which needs to be compiled.
 It requires some header files which are listed as follows:
-
 <code>
 <pre lang="markup">
 iostream.h
@@ -38,26 +37,26 @@ Point3.h (Contains the Point3 Class with its functionalities)
 
 (<b><u>Note:</b></u> [Console Displays all vector positions including the camera position at every flight position change.]
 
-- ###Up Arrow Key  [PRESS <code>UP_ARROW_KEY</code> to pitch]
+- ####Up Arrow Key  [PRESS <code>UP_ARROW_KEY</code> to pitch]
 
        the aircraft pitches down by a certain pre-defined angle.
 
-- ###Down Arrow Key   [PRESS <code>DOWN_ARROW_KEY</code> to toggle]
+- ####Down Arrow Key   [PRESS <code>DOWN_ARROW_KEY</code> to toggle]
 
        The aircraft pitches up by a certain pre-defined angle.
 
-- ###Left Arrow Key       [PRESS <code>LEFT_ARROW_KEY</code> to toggle]
+- ####Left Arrow Key       [PRESS <code>LEFT_ARROW_KEY</code> to toggle]
       The aircraft rolls clockwise/ right to left by a pre-defined small angle.
 
-- ###Right Arrow Key      [PRESS <code>RIGHT_ARROW_KEY</code> to toggle]
+- ####Right Arrow Key      [PRESS <code>RIGHT_ARROW_KEY</code> to toggle]
 
        The aircraft rolls clockwise/ right to left by a pre-defined small angle.
 
-- ###Q-Key	 [PRESS <code>Q</code> to Yaw]
+- ####Q-Key	 [PRESS <code>Q</code> to Yaw]
 
        The aircraft Yaws towards the right by pre-defined small angle.
 
-- ###W-Key	    [PRESS <code>W</code> to Yaw]
+- ####W-Key	    [PRESS <code>W</code> to Yaw]
 
        The aircraft Yaws towards the left by pre-defined small angle.
 
