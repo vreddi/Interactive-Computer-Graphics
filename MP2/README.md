@@ -1,10 +1,10 @@
-#Project 2 - 'FLight Simulator'
+#Project 2 - 'Flight Simulator'
 
 Second Mp for CS 418. This is a simple Flight Simulator App which provides basic interactive flight controls
 to the users. The only view avaialble is the cockpit view. The aircraft can perform rolls, piching and yaws. The 
 aircraft translates/moves at a constant speed which cannot be changed (In the current design of the App).
 
-![Alt Text](https://github.com/vreddi/Interactive-Computer-Graphics--CS-418-/blob/master/MP2/SnapShots/Image1.png)
+![Alt Text](https://github.com/vreddi/Interactive-Computer-Graphics--CS-418-/blob/master/MP2/Snapshots/Image1.png)
 
 This file provides an explaination (user point of view) on how to use this app. The video link is 
 provided on the bottom of the file.
