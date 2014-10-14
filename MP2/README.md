@@ -17,17 +17,6 @@ This app/project is build on Microsoft Visual Studio. For the submission the ent
 The main file is Source.cpp which needs to be compiled.
 It requires some header files which are listed as follows:
 
-#include <iostream>
-#include <glut.h>	(#include <GL/gl.h> and #include <GL/glu.h> are inside glut.h)
-#include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
-#include <string>
-#include "camera.h" (Contains the Camera Class and its functionalities)
-#include "Vector3.h" (Contains the Vector3 Class with its functionalities)
-#include "Point3.h" (Contains the Point3 Class with its functionalities)
-
-[Note: camera.h, Vector3.h & Point3.h exists in the same folder as the main Source.cpp file]
 <code>
 <pre lang="markup">
 iostream.h
@@ -49,11 +38,11 @@ Point3.h (Contains the Point3 Class with its functionalities)
 
 (<b><u>Note:</b></u> [Console Displays all vector positions including the camera position at every flight position change.]
 
-- ####Up Arrow Key  [PRESS <code>UP_ARROW_KEY</code> to pitch]
+- ###Up Arrow Key  [PRESS <code>UP_ARROW_KEY</code> to pitch]
 
        the aircraft pitches down by a certain pre-defined angle.
 
-- ####Down Arrow Key   [PRESS <code>DOWN</code> to toggle]
+- ###Down Arrow Key   [PRESS <code>DOWN_ARROW_KEY</code> to toggle]
 
        The aircraft pitches up by a certain pre-defined angle.
 
