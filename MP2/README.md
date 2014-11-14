@@ -11,7 +11,7 @@ provided on the bottom of the file.
 
 ###COMPILATION INSTRUCTIONS
 
-[Note: Source Code folder is CS 418_MP2_vreddi2]
+[<b><u>Note:</b></u> Source Code folder is CS 418_MP2_vreddi2]
 
 This app/project is build on Microsoft Visual Studio. For the submission the entire project has been included.
 The main file is Source.cpp which needs to be compiled.
