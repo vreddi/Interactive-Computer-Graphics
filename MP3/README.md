@@ -53,44 +53,43 @@ providing those image loading files]
 
 - ####Up Arrow Key  [PRESS <code>UP_ARROW_KEY</code> to pitch]
 
-Allows the user to look up in the scene.
+    Allows the user to look up in the scene.
 
 
 - ####Down Arrow Key   [PRESS <code>DOWN_ARROW_KEY</code> to pitch]
 
-Allows the User to look down in the scene
+   Allows the User to look down in the scene
 
 
 - ####Left Arrow Key       [PRESS <code>LEFT_ARROW_KEY</code> to roll]
 
-Allows the user to roll the view camera to produce different angles of viewing.
+    Allows the user to roll the view camera to produce different angles of viewing.
 
 
 - ####Right Arrow Key     [PRESS <code>RIGHT_ARROW_KEY</code> to roll]
 
-Allows the user to roll the view camera to produce different angles of viewing.
+    Allows the user to roll the view camera to produce different angles of viewing.
 
 - ####Q-Key	 [PRESS <code>Q</code> to Yaw]
 
-Allows the user to look at their left
+    Allows the user to look at their left
 
 
 - ####W-Key	    [PRESS <code>W</code> to Yaw]
 
-Allows the User to look at their right.
+    Allows the User to look at their right.
 
 
 - ####L-Key       [Press <code>L</code> to toggle]
 
-This acts as a light switch. THis is a toggle button which would enable the user to switch the lighting ON 
-or OFF. Initially when the App launches the lighting is ON by default.
+    This acts as a light switch. THis is a toggle button which would enable the user to switch the lighting ON 
+    or OFF. Initially when the App launches the lighting is ON by default.
 
 - ####T-Key	      [Press <code>T</code> to toggle]
 
-Allows the user to switch between normal object, texture mapped object and environment mapped object.
-
-the loop goes like this:
-normal OBJ -> Texture OBJ -> Environment OBJ -> Texture OBJ -> normal OBJ
+    Allows the user to switch between normal object, texture mapped object and environment mapped object.
+    the loop goes like this:
+    normal OBJ -> Texture OBJ -> Environment OBJ -> Texture OBJ -> normal OBJ
 
 
 ####Video Link : https://www.youtube.com/watch?v=OG5qles9uAc
