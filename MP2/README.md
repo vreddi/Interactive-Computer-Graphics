@@ -30,7 +30,7 @@ Point3.h (Contains the Point3 Class with its functionalities)
 </code>
 </pre>
 
-[Note: All the header files are in the "header files" folder. While compiling they have to be in proper directory 
+[<b><u>Note:</b></u> All the header files are in the "header files" folder. While compiling they have to be in proper directory 
 (Source Folder Directory),otherwise it would not be able to find the header files.]
 
 ###INTERACTIVITY FUNCTIONALITY
