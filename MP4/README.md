@@ -38,6 +38,7 @@ Vector3.h (Contains the Vector3 Class with its functionalities)
 Point3.h (Contains the Point3 Class with its functionalities)
 </code>
 </pre>
+
 [<b><u>Note:</b></u> Vector3.h & Point3.h exists in the same folder as the main Source.cpp file]
 
 [<b></u>Note:</b></u> imageloader.h and imageloader.cpp are files in the project that are not written by me. Those files
@@ -57,7 +58,7 @@ providing those image loading files]
    Press 'C' to change color of the model/mesh. The colors include white, red, green and blue.
 
 
-- ####T-Key       [PRESS <code>LEFT_ARROW_KEY</code> to toggle Texture]
+- ####T-Key       [PRESS <code>T</code> to toggle Texture]
 
     Pressing 'T' will allow the user to switch the textures ON and OFF (used as a switch) for the surface of the
 model.
