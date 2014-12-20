@@ -1,4 +1,4 @@
-#Project 3 - 'Surface Subdivision'
+#Project 4 - 'Surface Subdivision'
 
 
 Fourth Mp and Final MP for CS 418. This App loads "coarse mesh" a basic 32 vertices model of 'I'. Catmull-Clark subdivision is used on the mesh/model to get the next smoother mesh. The model moves along a Bezier Curve. Colors, Lighting, Textures, Subdivisions and some other misc. functionalities are implemented. The following has been achieved as per the requirements
