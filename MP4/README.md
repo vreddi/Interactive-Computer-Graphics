@@ -21,7 +21,6 @@ provided on the bottom of the file.
 This app/project is build on Microsoft Visual Studio. For the submission the entire project has been included.
 The main file is Source.cpp which needs to be compiled.
 It requires some header files which are listed as follows:
-
 <code>
 <pre lang="markup">
 iostream
